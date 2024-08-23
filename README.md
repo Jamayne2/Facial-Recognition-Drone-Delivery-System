@@ -23,7 +23,7 @@ This project demonstrates a small-scale drone-based delivery authentication syst
 
 ### Demo
 
-Check out the [demo video](https://www.youtube.com/your-demo-link) to see the system in action.
+Check out the [demo video](https://www.youtube.com/watch?v=Fv2dld06exg) to see the system in action.
 
 
 ## Future Enhancements
@@ -31,15 +31,3 @@ Check out the [demo video](https://www.youtube.com/your-demo-link) to see the sy
 - **Multi-Drone Support:** Integrate support for managing multiple drones simultaneously.
 - **Advanced Authentication:** Incorporate additional layers of authentication, such as voice recognition or QR code scanning.
 - **Real-time Notifications:** Implement a feature to notify the sender and recipient upon successful delivery.
-
-## Contributing
-
-We welcome contributions to improve this project. Please feel free to submit issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-**Note:** Make sure to replace the placeholders like `https://github.com/yourusername/drone-delivery-authentication.git` and `https://www.youtube.com/your-demo-link` with the actual URLs.
