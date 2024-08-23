@@ -9,18 +9,6 @@ This project demonstrates a small-scale drone-based delivery authentication syst
 - **Hardware Integration:** Seamless integration of drone hardware with advanced software to create a fully functional system.
 - **Adaptability:** The system is designed to be adaptable for various industrial applications, making it versatile and scalable.
 
-## Getting Started
-
-### Prerequisites
-
-- **Python 3.x**: Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
-- **OpenCV**: Install OpenCV for image and video processing.
-  ```bash
-  pip install opencv-python
-  ```
-- **Tello SDK**: Download and install the Tello SDK for drone control.
-
-
 ### Demo
 
 Check out the [demo video](https://www.youtube.com/watch?v=Fv2dld06exg) to see the system in action.
